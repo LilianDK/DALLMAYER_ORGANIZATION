@@ -29,7 +29,7 @@ Contacts:
 - https://hermes-data.slack.com
 
 Data:
-- German language news paper articles incl. metadata from 1914 to 1945  
+- German language news paper articles extracted text + OCR (optional) incl. metadata from 1914 to 1945  
 - https://hessenbox.uni-marburg.de/getlink/fi5WMibFaZX2ueh4xBvqwM/Datensatz (159 GB)
 - There is additional image data up to 2 TB
   
