@@ -64,8 +64,13 @@ All public information.
 - We must not enrich the data with other data sources because of licensing etc.
 
 ##### IP <a name = "2.1.2"></a>
-- The IP remains on our side. They offer to support in publishing on their hermes blog
-- The scans of the original sources are also available and the licensing is individual per outlet etc. It is assumed that we could retrieve licinsing information from the API
+
+#### Minutes from team kick-off meeting 16.07.2024 <a name = "2.1"></a>
+##### Research question <a name = "2.1.1"></a>
+- Everyone thinking about some interesting concepts that could be investigated for the next meeting
+
+##### Organisation <a name = "2.1.2"></a>
+- Everything in Github Repo
 
 ##### Expected Deliverables <a name = "2.1.3"></a>
 - We have to deliver 2 things: (1) Forschungsfrage/Fragestellung und (2) Ansatz A oder Ansatz B
