@@ -16,9 +16,7 @@
   * [Data](#1.6)
 * [Meeting Minutes](#2)
   * [2024-07-04 Kick-Off](#2.1)
-    * [Data](#2.1.1)
-    * [IP](#2.1.2)
-    * [Expected Deliverables](#2.1.3)
+  * [2024-07-16 Kick-Off](#2.2)
 
 ## 🧐 General Information <a name = "1"></a>
 
@@ -65,12 +63,12 @@ All public information.
 
 ##### IP <a name = "2.1.2"></a>
 
-#### Minutes from team kick-off meeting 16.07.2024 <a name = "2.1"></a>
-##### Research question <a name = "2.1.1"></a>
+#### Minutes from team kick-off meeting 16.07.2024 <a name = "2.2"></a>
+##### Research question <a name = "2.2.1"></a>
 - Everyone thinking about some interesting concepts that could be investigated for the next meeting
 
-##### Organisation <a name = "2.1.2"></a>
+##### Organisation <a name = "2.2.2"></a>
 - Everything in Github Repo
 
-##### Expected Deliverables <a name = "2.1.3"></a>
+##### Expected Deliverables <a name = "2.2.3"></a>
 - We have to deliver 2 things: (1) Forschungsfrage/Fragestellung und (2) Ansatz A oder Ansatz B
