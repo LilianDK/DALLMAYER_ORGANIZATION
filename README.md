@@ -16,7 +16,7 @@
   * [Data](#1.6)
 * [Meeting Minutes](#2)
   * [2024-07-04 Kick-Off](#2.1)
-  * [2024-07-16 Kick-Off](#2.2)
+  * [2024-07-16 Team Kick-Off](#2.2)
 
 ## 🧐 General Information <a name = "1"></a>
 
