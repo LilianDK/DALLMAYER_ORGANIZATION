@@ -17,6 +17,7 @@
 * [Meeting Minutes](#2)
   * [2024-07-04 Kick-Off](#2.1)
   * [2024-07-16 Team Kick-Off](#2.2)
+  * [2024-07-26 Touchpoint on research question](#2.3)
 
 ## 🧐 General Information <a name = "1"></a>
 
@@ -72,3 +73,21 @@ All public information.
 
 ##### Expected Deliverables <a name = "2.2.3"></a>
 - We have to deliver 2 things: (1) Forschungsfrage/Fragestellung und (2) Ansatz A oder Ansatz B
+
+#### Minutes from meeting 26.07.2024 - specification research question <a name = "2.3"></a>
+##### Data Cleansing <a name = "2.3.1"></a>
+- Due to the OCR there is a lot of noise in the data. Like useless pieces and fragements of characters. Therefore, with a sliding-window approach everything jibberish will be thrown away (DT)
+- Due to the huge amount of data we sub-set for a dataset to commit further investigations on. Therefore, the data will be facetted and a selection of journal and years will be derived from that (BS)
+  
+##### Data Pre-Processing <a name = "2.3.2"></a>
+- With LLMs or anything other usefull methods the articles are refined to achieve following variables: Journal Outlet (extracted), Publication Year (extracted), Title (generated), Summary of Article (generated), Keyword/Concept (generated)
+  
+##### Data Enrichment and Embedding Experiments <a name = "2.3.3"></a>
+- With LLMs or anything other usefull methods the data is enriched to achieve following variables: Keyword/Concept (generated)
+- Following the data pre-processing embedding experiments as well as clustering experiments after that are conducted
+  
+##### Data Visualization and testing against research questions <a name = "2.3.4"></a>
+- In the next meeting we see if we can specify the visualization
+
+##### Sidenote <a name = "2.3.5"></a>  
+- Larry J. Griffin and Robert R. Korstad (1998): Historical Inference and Event-Structure Analysis, https://www.jstor.org/stable/26405517
