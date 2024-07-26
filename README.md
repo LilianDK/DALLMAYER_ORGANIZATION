@@ -80,11 +80,11 @@ All public information.
 - Due to the huge amount of data we sub-set for a dataset to commit further investigations on. Therefore, the data will be facetted and a selection of journal and years will be derived from that (BS)
   
 ##### Data Pre-Processing <a name = "2.3.2"></a>
-- With LLMs or anything other usefull methods the articles are refined to achieve following variables: Journal Outlet (extracted), Publication Year (extracted), Title (generated), Summary of Article (generated), Keyword/Concept (generated)
+- With LLMs or anything other usefull methods the articles are refined to achieve following variables: Journal Outlet (extracted), Publication Year (extracted), Title (generated), Summary of Article (generated), Keyword/Concept (generated) (MM)
   
 ##### Data Enrichment and Embedding Experiments <a name = "2.3.3"></a>
-- With LLMs or anything other usefull methods the data is enriched to achieve following variables: Keyword/Concept (generated)
-- Following the data pre-processing embedding experiments as well as clustering experiments after that are conducted
+- With LLMs or anything other usefull methods the data is enriched to achieve following variables: Keyword/Concept (generated) (LDK)
+- Following the data pre-processing embedding experiments as well as clustering experiments after that are conducted (all)
   
 ##### Data Visualization and testing against research questions <a name = "2.3.4"></a>
 - In the next meeting we see if we can specify the visualization
