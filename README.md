@@ -91,3 +91,21 @@ All public information.
 
 ##### Sidenote <a name = "2.3.5"></a>  
 - Larry J. Griffin and Robert R. Korstad (1998): Historical Inference and Event-Structure Analysis, https://www.jstor.org/stable/26405517
+
+#### Minutes from meeting 08.08.2024 - status data preparation pipeline <a name = "2.3"></a>
+##### Data Cleansing <a name = "2.3.1"></a>
+- Sliding-window and "beautification" of data works. Code moves slowly, therefore checking on that again. (DT -> BS)
+- Sub-set of data for initial tests is Süddeutsche, Kölnischer and Reichsanzeiger.
+  
+##### Data Pre-Processing <a name = "2.3.2"></a>
+- Pipeline is: cleaning > reduction through summaries and concepts creation with LLM > embedding
+- For the summaries and concepts creation a modification of chain of density prompt seems usefull. Checking output again for the selected subset (LDK)
+  
+##### Data Enrichment and Embedding Experiments <a name = "2.3.3"></a>
+- Following the data pre-processing embedding experiments as well as clustering experiments after that are conducted (all)
+  
+##### Data Visualization and testing against research questions <a name = "2.3.4"></a>
+- In the next meeting we see if we can specify the visualization
+
+##### Sidenote <a name = "2.3.5"></a>  
+- https://github.com/rspeer/python-ftfy
