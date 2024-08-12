@@ -18,6 +18,9 @@
   * [2024-07-04 Kick-Off](#2.1)
   * [2024-07-16 Team Kick-Off](#2.2)
   * [2024-07-26 Touchpoint on research question](#2.3)
+  * [2024-08-08 Status data preparation pipeline](#2.4)
+  * [2024-08-22 Status data preparation pipeline](#2.5)
+
 
 ## 🧐 General Information <a name = "1"></a>
 
@@ -92,20 +95,36 @@ All public information.
 ##### Sidenote <a name = "2.3.5"></a>  
 - Larry J. Griffin and Robert R. Korstad (1998): Historical Inference and Event-Structure Analysis, https://www.jstor.org/stable/26405517
 
-#### Minutes from meeting 08.08.2024 - status data preparation pipeline <a name = "2.3"></a>
-##### Data Cleansing <a name = "2.3.1"></a>
+#### Minutes from meeting 08.08.2024 - status data preparation pipeline <a name = "2.4"></a>
+##### Data Cleansing <a name = "2.4.1"></a>
 - Sliding-window and "beautification" of data works. Code moves slowly, therefore checking on that again. (DT -> BS)
 - Sub-set of data for initial tests is Süddeutsche, Kölnischer and Reichsanzeiger.
   
-##### Data Pre-Processing <a name = "2.3.2"></a>
+##### Data Pre-Processing <a name = "2.4.2"></a>
 - Pipeline is: cleaning > reduction through summaries and concepts creation with LLM > embedding
 - For the summaries and concepts creation a modification of chain of density prompt seems usefull. Checking output again for the selected subset (LDK)
   
-##### Data Enrichment and Embedding Experiments <a name = "2.3.3"></a>
+##### Data Enrichment and Embedding Experiments <a name = "2.4.3"></a>
 - Following the data pre-processing embedding experiments as well as clustering experiments after that are conducted (all)
   
-##### Data Visualization and testing against research questions <a name = "2.3.4"></a>
+##### Data Visualization and testing against research questions <a name = "2.4.4"></a>
 - In the next meeting we see if we can specify the visualization
 
-##### Sidenote <a name = "2.3.5"></a>  
+##### Sidenote <a name = "2.4.5"></a>  
 - https://github.com/rspeer/python-ftfy
+
+#### Minutes from meeting 22.08.2024 - status data preparation pipeline <a name = "2.5"></a>
+##### Data Cleansing <a name = "2.5.1"></a>
+- xx
+  
+##### Data Pre-Processing <a name = "2.5.2"></a>
+- xx
+  
+##### Data Enrichment and Embedding Experiments <a name = "2.5.3"></a>
+- xx
+  
+##### Data Visualization and testing against research questions <a name = "2.5.4"></a>
+- xx
+
+##### Sidenote <a name = "2.5.5"></a>  
+- xx
