@@ -19,7 +19,7 @@
   * [2024-07-16 Team Kick-Off](#2.2)
   * [2024-07-26 Touchpoint on research question](#2.3)
   * [2024-08-08 Status data preparation pipeline](#2.4)
-  * [2024-08-22 Status data preparation pipeline](#2.5)
+  * [2024-08-29 Status data preparation pipeline](#2.5)
 
 
 ## 🧐 General Information <a name = "1"></a>
@@ -113,7 +113,7 @@ All public information.
 ##### Sidenote <a name = "2.4.5"></a>  
 - https://github.com/rspeer/python-ftfy
 
-#### Minutes from meeting 22.08.2024 - status data preparation pipeline <a name = "2.5"></a>
+#### Minutes from meeting 29.08.2024 - status data preparation pipeline <a name = "2.5"></a>
 ##### Data Cleansing <a name = "2.5.1"></a>
 - xx
   
