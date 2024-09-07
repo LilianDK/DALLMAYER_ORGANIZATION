@@ -115,13 +115,14 @@ All public information.
 
 #### Minutes from meeting 29.08.2024 - status data preparation pipeline <a name = "2.5"></a>
 ##### Data Cleansing <a name = "2.5.1"></a>
-- xx
+- Data cleansing will be the transformation from pandas pickles to JSON
+- Sliding-window approach to clear out random characters
   
 ##### Data Pre-Processing <a name = "2.5.2"></a>
-- xx
+- Re-writing the "old German" text into "modern German" as part of the data preprocessing step is tested
   
 ##### Data Enrichment and Embedding Experiments <a name = "2.5.3"></a>
-- xx
+- The cleansed and pre-processed data will be enriched with meta data and short summaries of the first page for each newspaper 
   
 ##### Data Visualization and testing against research questions <a name = "2.5.4"></a>
 - xx
